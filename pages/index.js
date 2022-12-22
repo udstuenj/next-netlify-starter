@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE" />
         <p className="description">
-          i love correspondance feel free to contact me judstn@gmail.com on-request, i can add you to my personal newsletter
+          i love correspondance <br /> feel free to contact me <br /> judstn@gmail.com <br /> on-request, i can add you to my personal newsletter
         </p>
       </main>
 
