@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          i love correspondance feel free to contact me judstn@gmail.com on-request, i can add you to my personal newsletter
         </p>
       </main>
 
