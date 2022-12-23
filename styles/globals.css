@@ -1,4 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+.main-slide{
+  padding-top: 30px;
+}
+
+.carousel .slider-wrapper{
+  width: 50%;
+}
+
+.carousel .thumb{
+  width: 5%;
+  height: 50px;
+}
+
+.carosel{
+  text-align: center;
+}
 
 body {
   background: #000000;

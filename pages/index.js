@@ -2,6 +2,8 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import Image from 'next/image'
+import { Carousel } from 'react-responsive-carousel'
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 export default function Home() {
   return (
@@ -10,20 +12,17 @@ export default function Home() {
         <title>judstn - enjoy :)</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      {['mountbigelowAT', 'thailandgroup'].map((path) => {
-        return (
-          <div key={path}>
-            <Image src={`/${path}.png`} alt='me' width='1000' height='500' objectFit='contain'/>
-           </div> 
-        )
-      })}
-      {['selfie'].map((path) => {
-        return (
-          <div key={path}>
-            <Image src={`/${path}.png`} alt='me' width='500' height='500' objectFit='contain'/>
-           </div> 
-        )
-      })}
+      <Carousel className='main-slide'>
+                <div>
+                    <img src="mountbigelowAT.png" height='500' width='1000'/>
+                </div>
+                <div>
+                    <img src="selfie.png" height='500' width='500'/>
+                </div>
+                <div>
+                    <img src="thailandgroup.png" height='500' width='1000'/>
+                </div>
+            </Carousel>
       <main>
         <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE" />
         <p className="description">
