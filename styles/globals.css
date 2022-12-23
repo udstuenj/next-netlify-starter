@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 .main-slide{
-  padding-top: 30px;
+  padding-top: 10px;
 }
 
 .carousel .slider-wrapper{
-  max-width: 75%;
-  max-height: 50%
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain;
 }
 
 .carousel .thumb{
@@ -54,4 +55,12 @@ footer {
 }
 img {
   object-fit: contain;
+}
+
+.description {
+  text-align: center
+}
+
+.container {
+  text-align: center
 }
