@@ -12,7 +12,7 @@ export default function Home() {
         <title>judstn - enjoy :)</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Carousel className='main-slide'>
+      <Carousel className='main-slide' showThumbs={false}>
                 <div>
                     <img src="mountbigelowAT.png" height='1108' width='1478'/>
                 </div>
@@ -27,7 +27,7 @@ export default function Home() {
                 </div>
             </Carousel>
       <main>
-        <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE" />
+        <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE"/>
         <p className="description">
           i love correspondance <br /> feel free to contact me <br /> judstn@gmail.com <br /> on-request, i can add you to my personal newsletter
         </p>
