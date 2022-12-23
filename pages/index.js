@@ -14,16 +14,16 @@ export default function Home() {
       </Head>
       <Carousel className='main-slide'>
                 <div>
-                    <img src="mountbigelowAT.png" height='1108' width='1478'/>
+                    <img src="mountbigelowAT.png" height='1108' width='1478' imageFit='contain'/>
                 </div>
                 <div>
-                    <img src="IMG_7282.png" height='1108' width='831'/>
+                    <img src="IMG_7282.png" height='1108' width='831' imageFit='contain'/>
                 </div>
                 <div>
-                    <img src="IMG_8892.png" height='1108' width='831'/>
+                    <img src="IMG_8892.png" height='1108' width='1662' imageFit='contain'/>
                 </div>
                 <div>
-                    <img src="thailandgroup.png" height='1108' width='1478'/>
+                    <img src="thailandgroup.png" height='1108' width='1478' imageFit='contain'/>
                 </div>
             </Carousel>
       <main>
