@@ -11,6 +11,7 @@ export default function Home() {
       <Head>
         <title>judstn - enjoy :)</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="robots" content="all" />
       </Head>
       <Carousel className='main-slide' showThumbs={false} emulateTouch={true} useKeyboardArrows={true} infiniteLoop={true}>
                 <div>
