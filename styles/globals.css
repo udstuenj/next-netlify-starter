@@ -2,6 +2,7 @@
 
 .main-slide{
   padding-top: 10px;
+  padding-bottom: 0px;
 }
 
 .carousel .slider-wrapper{
@@ -72,7 +73,7 @@ img {
 }
 
 .carousel .control-dots .dot {
-  background:rgb(125, 18, 255) !important
+  background:rgb(125, 18, 255) !important;
 }
 
 .carousel .control-next.control-arrow:before {
