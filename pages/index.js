@@ -12,18 +12,18 @@ export default function Home() {
         <title>judstn - enjoy :)</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Carousel className='main-slide' showThumbs={false}>
+      <Carousel className='main-slide' showThumbs={false} emulateTouch={true} useKeyboardArrows={true} infiniteLoop={true}>
                 <div>
-                    <img src="mountbigelowAT.png" height='1108' width='1478'/>
+                    <img src="mountbigelowAT.png" max-height='1108' width='1478'/>
                 </div>
                 <div>
-                    <img src="IMG_7282.png" height='1108' width='831'/>
+                    <img src="IMG_7282.png" max-height='1108' width='831'/>
                 </div>
                 <div>
-                    <img src="IMG_8892.png" height='1108' width='1662'/>
+                    <img src="IMG_8892.png" max-height='1108' width='1662'/>
                 </div>
                 <div>
-                    <img src="thailandgroup.png" height='1108' width='1478'/>
+                    <img src="thailandgroup.png" max-height='1108' width='1478'/>
                 </div>
             </Carousel>
       <main>
