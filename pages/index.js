@@ -19,22 +19,22 @@ export default function Home() {
       </Head>
       <Carousel className='main-slide' showThumbs={false} emulateTouch={true} useKeyboardArrows={true} infiniteLoop={true}>
                 <div>
-                    <img src="mountbigelowAT.png" max-height='1108' width='1478'/>
+                    <img src="mountbigelowAT.png" max-height='1108' width='1478' placeholder='blur'/>
                 </div>
                 <div>
-                    <img src="IMG_7282.png" max-height='1108' width='831'/>
+                    <img src="IMG_7282.png" max-height='1108' width='831' placeholder='blur'/>
                 </div>
                 <div>
-                    <img src="IMG_8892.png" max-height='1108' width='1662'/>
+                    <img src="IMG_8892.png" max-height='1108' width='1662' placeholder='blur'/>
                 </div>
                 <div>
-                    <img src="thailandgroup.png" max-height='1108' width='1478'/>
+                    <img src="thailandgroup.png" max-height='1108' width='1478' placeholder='blur'/>
                 </div>
             </Carousel>
       <main>
         <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE"/>
         <p className="description">
-          i love correspondance <br /> feel free to contact me <br /> judstn@gmail.com <br /> on-request, i can add you to my personal newsletter <br /> <br /> <br /> <br /> <br /> <br /> creative works coming soon
+          i love correspondance <br /> feel free to contact me <br /> judstn@gmail.com <br /> on-request, i can add you to my personal newsletter <br /> <br /> <br /> <br /> creative works coming soon
         </p>
       </main>
 
