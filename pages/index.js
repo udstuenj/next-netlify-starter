@@ -17,7 +17,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <meta name="robots" content="all" />
       </Head>
-      <Carousel className='main-slide' showThumbs={false} emulateTouch={true} useKeyboardArrows={true} infiniteLoop={true}>
+      <Carousel className='main-slide' showThumbs={false} emulateTouch={true} useKeyboardArrows={true} infiniteLoop={true} showStatus= {false}>
                 <div>
                     <img src="mountbigelowAT.png" max-height='1108' width='1478' placeholder='blur'/>
                 </div>
