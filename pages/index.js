@@ -5,6 +5,10 @@ import Image from 'next/image'
 import { Carousel } from 'react-responsive-carousel'
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
+function Page() {
+  return <h1>Jerry Udstuen's Personal Website</h1>;
+}
+
 export default function Home() {
   return (
     <div className="container">
