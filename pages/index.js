@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import Image from 'next/image'
+import Link from 'next/link'
 import { Carousel } from 'react-responsive-carousel'
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
@@ -34,7 +35,10 @@ export default function Home() {
       <main>
         <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE"/>
         <p className="description">
-          i love correspondance <br /> feel free to contact me <br /> judstn@gmail.com <br /> on-request, i can add you to my personal newsletter <br /> <br /> <br /> <br /> creative works coming soon
+          i love correspondance <br /> feel free to contact me <br /> judstn@gmail.com <br /> on-request, i can add you to my personal newsletter <br /> <br /> <br /> <br /> works <br /> <br />
+          <Link href="https://drive.google.com/file/d/1VxPUIh3FtiB5li4Um2ZzQ3vUCQ7GSH3f/view?usp=sharing">
+          Aklas saga
+          </Link>
         </p>
       </main>
 
