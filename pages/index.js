@@ -38,6 +38,9 @@ export default function Home() {
           i love correspondance <br /> feel free to contact me <br /> judstn@gmail.com <br /> on-request, i can add you to my personal newsletter <br /> <br /> <br /> <br /> works <br /> <br />
           <Link href="https://drive.google.com/file/d/1VxPUIh3FtiB5li4Um2ZzQ3vUCQ7GSH3f/view?usp=sharing">
           Aklas saga
+          </Link> <br />
+          <Link href="https://drive.google.com/file/d/1amACi7NW9ivnXJLham4qtBjoy6pm9V4f/view?usp=sharing">
+          Soviet militaria sketches
           </Link>
         </p>
       </main>
