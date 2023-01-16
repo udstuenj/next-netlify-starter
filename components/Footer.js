@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        updated 12/30/2022
+        updated 1/16/2023
       </footer>
     </>
   )
