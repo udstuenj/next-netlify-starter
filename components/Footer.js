@@ -6,9 +6,9 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
         updated 5/23/2023 <br />
-        <Link href="https://www.yourworldoftext.com/~judstn/guestbook"> <br />
+        <Link href="https://www.yourworldoftext.com/~judstn/guestbook">
         guestbook
-        </Link> 
+        </Link> <br />
       </footer>
     </>
   )
