@@ -35,7 +35,7 @@ export default function Home() {
       <main>
         <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE"/>
         <p className="description">
-          i love correspondance <br /> feel free to contact me <br /> judstn@proton.me <br /> on-request, i can add you to my personal newsletter <br /> <br /> <br /> <br /> works <br /> <br />
+          i love correspondance <br /> feel free to contact me <br /> judstn (at) proton.me <br /> on-request, i can add you to my personal newsletter <br /> <br /> <br /> <br /> works <br /> <br />
           <Link href="https://drive.google.com/file/d/1n9Tg6bMWxAt8FgIes6VboMWGq23rBuSX/view?usp=sharing">
           Aklas saga
           </Link> <br />
