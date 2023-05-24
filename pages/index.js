@@ -41,6 +41,12 @@ export default function Home() {
           </Link> <br />
           <Link href="https://drive.google.com/file/d/1amACi7NW9ivnXJLham4qtBjoy6pm9V4f/view?usp=sharing">
           Soviet militaria sketches
+          </Link> <br />
+          <Link href="https://drive.google.com/drive/folders/19KEU8ffqrFqJz0I-Gfcu4H5d2iyXHCSg?usp=sharing">
+          Blacksmithing
+          </Link>
+          <Link href="https://drive.google.com/drive/folders/1nBTqXa__gaAiWKksh33-SgwQrhXpbQDL?usp=sharing">
+          TTRPG Archive
           </Link>
         </p>
       </main>
