@@ -52,6 +52,9 @@ export default function Home() {
           <Link href="https://drive.google.com/drive/folders/11F6AaVdSYF0rKnzcK9HQ97XNoAImVy2k?usp=sharing">
           combat
           </Link> <br />
+          <Link href="https://drive.google.com/drive/folders/1h6OuEvW_rqosM319e-94sd9yEvyriSKD?usp=sharing">
+          photos
+          </Link>
           
         </p>
       </main>
