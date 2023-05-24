@@ -43,11 +43,16 @@ export default function Home() {
           Soviet militaria sketches
           </Link> <br />
           <Link href="https://drive.google.com/drive/folders/19KEU8ffqrFqJz0I-Gfcu4H5d2iyXHCSg?usp=sharing">
-          Blacksmithing
-          </Link> <br />
+          blacksmithing
+          </Link> <br /> <br />
+          archives
           <Link href="https://drive.google.com/drive/folders/1nBTqXa__gaAiWKksh33-SgwQrhXpbQDL?usp=sharing">
-          TTRPG archive
+          ttrpg
+          </Link> <br />
+          <Link href="https://drive.google.com/drive/folders/11F6AaVdSYF0rKnzcK9HQ97XNoAImVy2k?usp=sharing">
+          combat
           </Link>
+          
         </p>
       </main>
 
