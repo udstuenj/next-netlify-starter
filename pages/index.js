@@ -46,7 +46,7 @@ export default function Home() {
           Blacksmithing
           </Link> <br />
           <Link href="https://drive.google.com/drive/folders/1nBTqXa__gaAiWKksh33-SgwQrhXpbQDL?usp=sharing">
-          TTRPG Archive
+          TTRPG archive
           </Link>
         </p>
       </main>
