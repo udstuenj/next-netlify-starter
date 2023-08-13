@@ -42,6 +42,9 @@ export default function Home() {
           <Link href="https://drive.google.com/file/d/1amACi7NW9ivnXJLham4qtBjoy6pm9V4f/view?usp=sharing">
           Soviet militaria sketches
           </Link> <br />
+          monastery of the crimson monks
+          <Link href="https://drive.google.com/file/d/1XobbFoGdqJBvQt2E2O2ZJ2t6OMrOWbaM/view?usp=sharing">
+          </Link> <br />
           <Link href="https://drive.google.com/drive/folders/19KEU8ffqrFqJz0I-Gfcu4H5d2iyXHCSg?usp=sharing">
           blacksmithing
           </Link> <br />
