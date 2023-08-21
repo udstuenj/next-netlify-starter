@@ -36,6 +36,9 @@ export default function Home() {
         <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE"/>
         <p className="description">
           i love correspondance <br /> feel free to contact me <br /> judstn (at) proton.me <br /> on-request, i can add you to my personal newsletter <br /> <br /> <br /> works <br /> <br />
+          <Link href="https://drive.google.com/file/d/1XobbFoGdqJBvQt2E2O2ZJ2t6OMrOWbaM/view?usp=sharing">
+          monastery of the crimson monks
+          </Link> <br />
           <Link href="https://drive.google.com/file/d/1n9Tg6bMWxAt8FgIes6VboMWGq23rBuSX/view?usp=sharing">
           Aklas saga
           </Link> <br />
