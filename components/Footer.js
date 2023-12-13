@@ -10,7 +10,6 @@ export default function Footer() {
         guestbook
         </Link>
         <br />
-        pgp: https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC773E9A67D510502
       </footer>
     </>
   )
