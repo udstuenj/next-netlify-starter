@@ -35,7 +35,7 @@ export default function Home() {
       <main>
         <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE"/>
         <p className="description">
-          i love correspondance <br /> feel free to contact me <br /> judstn (at) proton.me <br /> on-request, i can add you to my personal newsletter <br /> <br /> <br /> works <br /> <br />
+          absolutely love correspondance! <br /> feel free to reach out <br /> judstn (at) proton (dot) me <br /> or @judstn on telegram <br /> <br /> on-request, you can get added to the monthly newsletter <br /> <br /> <br /> works <br /> <br />
           <Link href="https://drive.google.com/file/d/1XobbFoGdqJBvQt2E2O2ZJ2t6OMrOWbaM/view?usp=sharing">
           monastery of the crimson monks
           </Link> <br />
@@ -61,7 +61,13 @@ export default function Home() {
           <Link href="https://drive.google.com/drive/folders/1h6OuEvW_rqosM319e-94sd9yEvyriSKD?usp=sharing">
           photos
           </Link>
-          
+          <Link href="beetheband.com">
+          BEE!
+          </Link> <br />
+          <Link href="https://docs.google.com/document/d/1GJ8C1A7qcPdIbPoCOiHHUksRpdG3UYeLfsH-gYgfud0/edit?usp=drive_link">
+          chemical happiness - Michael Peters
+          </Link>
+
         </p>
       </main>
 
