@@ -7,7 +7,7 @@ import { Carousel } from 'react-responsive-carousel'
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 function Page() {
-  return <h1>Jerry Udstuen's Personal Website</h1>;
+  return <h1>Jerry Udstuen's Website</h1>;
 }
 
 export default function Home() {
@@ -35,7 +35,7 @@ export default function Home() {
       <main>
         <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE"/>
         <p className="description">
-          absolutely love correspondance! <br /> feel free to reach out <br /> judstn (at) proton (dot) me <br /> or @judstn on telegram <br /> <br /> on-request, you can get added to the monthly newsletter <br /> <br /> <br /> works <br /> <br />
+          absolutely love correspondance! <br /> feel free to reach out <br /> judstn (at) proton (dot) me <br /> @judstn on telegram <br /> <br /> on-request, you can get added to the monthly newsletter <br /> <br /> <br /> works <br /> <br />
           <Link href="https://drive.google.com/file/d/1XobbFoGdqJBvQt2E2O2ZJ2t6OMrOWbaM/view?usp=sharing">
           monastery of the crimson monks
           </Link> <br />
