@@ -61,14 +61,17 @@ export default function Home() {
           <Link href="https://drive.google.com/drive/folders/1h6OuEvW_rqosM319e-94sd9yEvyriSKD?usp=sharing">
           photos
           </Link> <br /> <br /> <br />
-          friends' works
+          friends' works <br/>
           <Link href="beetheband.com">
           BEE!
           </Link> <br />
           <Link href="https://docs.google.com/document/d/1GJ8C1A7qcPdIbPoCOiHHUksRpdG3UYeLfsH-gYgfud0/edit?usp=drive_link">
           chemical happiness - Michael Peters
-          </Link>
-
+          </Link> <br /> <br /> <br />
+          pgp:&nbsp;
+          <Link href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC773E9A67D510502">
+          https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC773E9A67D510502
+          </Link> <br />
         </p>
       </main>
 
