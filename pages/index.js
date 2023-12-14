@@ -60,7 +60,7 @@ export default function Home() {
           </Link> <br />
           <Link href="https://drive.google.com/drive/folders/1h6OuEvW_rqosM319e-94sd9yEvyriSKD?usp=sharing">
           photos
-          </Link> <br /> <br /> <br />
+          </Link> <br /> <br />
           friends' works <br/>
           <Link href="beetheband.com">
           BEE!
