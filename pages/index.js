@@ -61,12 +61,18 @@ export default function Home() {
           <Link href="https://drive.google.com/drive/folders/1h6OuEvW_rqosM319e-94sd9yEvyriSKD?usp=sharing">
           photos
           </Link> <br /> <br />
-          friends' works <br/>
-          <Link href="beetheband.com">
+          friends' works and collaberations<br/>
+          <Link href="https://beetheband.com">
           BEE!
           </Link> <br />
+          <Link href="https://thisiseclipse.com/">
+          ThisisEclipse_
+          </Link>
+          &nbsp;and our collaberation: <Link href="https://thisiseclipse.com/izdanitchke-2023">
+          Izdanitchke
+          </Link> <br />
           <Link href="https://docs.google.com/document/d/1GJ8C1A7qcPdIbPoCOiHHUksRpdG3UYeLfsH-gYgfud0/edit?usp=drive_link">
-          chemical happiness - Michael Peters
+          Chemical Happiness - Michael Peters
           </Link> <br /> <br /> <br />
           pgp:&nbsp;
           <Link href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC773E9A67D510502">
