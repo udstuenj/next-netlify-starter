@@ -48,6 +48,9 @@ export default function Home() {
           <Link href="https://drive.google.com/drive/folders/19KEU8ffqrFqJz0I-Gfcu4H5d2iyXHCSg?usp=sharing">
           blacksmithing
           </Link> <br />
+          <Link href="https://www.youtube.com/watch?v=FzsiDJ_LCzU&list=PLCzOoPmLZ94n6f0pVSKwhvUDdQqQhPtjV">
+          weapon videos
+          </Link> <br/>
           <Link href="https://youtu.be/scMYX4tys3c">
           day in the life - AT 
           </Link> <br /> <br />
@@ -55,8 +58,8 @@ export default function Home() {
           <Link href="https://drive.google.com/drive/folders/1nBTqXa__gaAiWKksh33-SgwQrhXpbQDL?usp=sharing">
           ttrpg
           </Link> <br />
-          <Link href="https://drive.google.com/drive/folders/11F6AaVdSYF0rKnzcK9HQ97XNoAImVy2k?usp=sharing">
-          combat
+          <Link href="https://www.youtube.com/watch?v=EkaUib-wElg&list=PLCzOoPmLZ94n8Vlb4VtbpS76wvdNzJ3yn">
+          combat videos
           </Link> <br />
           <Link href="https://drive.google.com/drive/folders/1h6OuEvW_rqosM319e-94sd9yEvyriSKD?usp=sharing">
           photos
@@ -66,7 +69,7 @@ export default function Home() {
           BEE!
           </Link> <br />
           <Link href="https://ameliorez.art/home">
-          ThisisEclipse_
+          ameliorez
           </Link>
           &nbsp;and our collaberation: <Link href="https://ameliorez.art/izdanitchke-2023">
           Izdanitchke
