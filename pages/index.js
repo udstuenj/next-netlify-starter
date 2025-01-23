@@ -35,7 +35,7 @@ export default function Home() {
       <main>
         <Header title="WELCOME TO JERRY UDSTUEN'S WEBSITE FOR CONNECTION, EXPRESSION, AND ANYTHING ELSE"/>
         <p className="description">
-          absolutely love correspondance! <br /> feel free to reach out <br /> judstn (at) proton (dot) me <br /> @judstn on telegram <br /> <br /> on-request, you can get added to the monthly newsletter <br /> <br /> <br /> works <br /> <br />
+          absolutely love correspondance! <br /> feel free to reach out <br /> judstn (at) proton (dot) me <br /> @judstn on signal <br /> <br /> on-request, you can get added to the monthly newsletter <br /> <br /> <br /> works <br /> <br />
           <Link href="https://drive.google.com/file/d/1XobbFoGdqJBvQt2E2O2ZJ2t6OMrOWbaM/view?usp=sharing">
           monastery of the crimson monks
           </Link> <br />
@@ -65,10 +65,10 @@ export default function Home() {
           <Link href="https://beetheband.com">
           BEE!
           </Link> <br />
-          <Link href="https://thisiseclipse.com/">
+          <Link href="https://ameliorez.art/home">
           ThisisEclipse_
           </Link>
-          &nbsp;and our collaberation: <Link href="https://thisiseclipse.com/izdanitchke-2023">
+          &nbsp;and our collaberation: <Link href="https://ameliorez.art/izdanitchke-2023">
           Izdanitchke
           </Link> <br />
           <Link href="https://docs.google.com/document/d/1GJ8C1A7qcPdIbPoCOiHHUksRpdG3UYeLfsH-gYgfud0/edit?usp=drive_link">

@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        site updated 1/16/2024 -&nbsp;
+        site updated 1/23/2025 -&nbsp;
         <br /> <Link href="https://www.yourworldoftext.com/~judstn/guestbook">
         guestbook
         </Link>
