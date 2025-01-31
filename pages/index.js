@@ -66,7 +66,7 @@ export default function Home() {
           </Link> <br />
           <Link href="https://www.youtube.com/watch?v=2O3DTms-2hI">
           CBS news appearance</Link> <br />
-          friends' works and collaberations<br/>
+          friends' works and collaberations<br/> <br />
           <Link href="https://beetheband.com">
           BEE!
           </Link> <br />
@@ -79,9 +79,8 @@ export default function Home() {
           <Link href="https://docs.google.com/document/d/1GJ8C1A7qcPdIbPoCOiHHUksRpdG3UYeLfsH-gYgfud0/edit?usp=drive_link">
           Chemical Happiness - Michael Peters
           </Link> <br /> <br /> <br />
-          pgp:&nbsp;
           <Link href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC773E9A67D510502">
-          https://pgp.mit.edu/pks/lookup?op=vindex&search=0xC773E9A67D510502
+          pgp public key
           </Link> <br />
         </p>
       </main>
