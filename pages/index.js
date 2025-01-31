@@ -20,16 +20,16 @@ export default function Home() {
       </Head>
       <Carousel className='main-slide' showThumbs={false} emulateTouch={true} useKeyboardArrows={true} infiniteLoop={true} showStatus= {false}>
                 <div>
-                    <img src="mountbigelowAT.png" max-height='1108' width='1478' placeholder='blur'/>
+                    <img src="mountbigelowAT.png" alt="A selfie of Jerry on top of Mount Bigelow in Maine, as part of his Appalachian Trail hike in 2022" max-height='1108' width='1478' placeholder='blur'/>
                 </div>
                 <div>
-                    <img src="IMG_7282.png" max-height='1108' width='831' placeholder='blur'/>
+                    <img src="IMG_7282.png" alt="Jerry in a blue padded jacket, black fencing jacket, black elbow pads & gloves, and red shin-pads, holds a longsword in a Pflug (plow in German) position to defend against an opponent in black about to strike him with a longsword" max-height='1108' width='831' placeholder='blur'/>
                 </div>
                 <div>
-                    <img src="IMG_8892.png" max-height='1108' width='1662' placeholder='blur'/>
+                    <img src="IMG_8892.png" alt="Jerry wearing black muay thai shorts punches a pad held up by an instructor at a Muay Thai gym in Thailand" max-height='1108' width='1662' placeholder='blur'/>
                 </div>
                 <div>
-                    <img src="thailandgroup.png" max-height='1108' width='1478' placeholder='blur'/>
+                    <img src="thailandgroup.png" alt="Jerry posing with multiple happy women to a backdrop of a beautiful reservoir in Thailand" max-height='1108' width='1478' placeholder='blur'/>
                 </div>
             </Carousel>
       <main>
@@ -66,7 +66,7 @@ export default function Home() {
           </Link> <br />
           <Link href="https://www.youtube.com/watch?v=2O3DTms-2hI">
           CBS news appearance</Link> <br /> <br />
-          friends' works and collaberations<br/>
+          friends' works and collaberations<br/> <br/>
           <Link href="https://beetheband.com">
           BEE!
           </Link> <br />
